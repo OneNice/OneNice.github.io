@@ -1,0 +1,42 @@
+h1{
+    font-size: 32px;
+    line-height: 36px;
+}
+.about img{
+    width: 250px;
+    height: 250px;
+}
+header{
+    padding: 40px;
+}
+section{
+    padding: 52px 40px;
+}
+.bullets{
+    position: relative;
+    justify-content: center;
+    margin: 16px auto;
+}
+article p{
+    width: 100%;
+}
+article img{
+    margin: 20px 0 0;
+}
+article{
+    margin-top: 60px;
+}
+form{
+    margin-top: 20px;
+}
+form .flex{
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+form .flex input{
+    width: 100%;
+}
+.flex input:first-child{
+    margin: 0 0 16px;
+}
